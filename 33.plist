@@ -11,7 +11,8 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://bucket-community.oss-cn-hangzhou.aliyuncs.com/resource/document/20180711/ppBT.ipa</string>
+                    <string>
+https://bucket-community.oss-cn-hangzhou.aliyuncs.com/resource/document/20180711/gw_com.willim.bywaten_5.2.5.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
